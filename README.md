@@ -1,5 +1,5 @@
 # Pardot-API-V5
-Pardot API V5, Extract the Data from Pardot to CSV
+Extracting the Data from Pardot to CSV using the Pardot V5
 
 Steps:
 
